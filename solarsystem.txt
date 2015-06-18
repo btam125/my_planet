@@ -1,6 +1,6 @@
 Mercury
-Mars 
-earth
+Mars - closest planet nearby
+earth - where I live
 Jupiter
 pluto
 Neptune
