@@ -1,2 +1,4 @@
 Mercury
-#TODO add more planet
+Mars 
+earth
+Jupiter
