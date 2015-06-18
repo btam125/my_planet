@@ -3,4 +3,6 @@ Mars
 earth
 Jupiter
 pluto
-Nepture
+Neptune
+Uranus
+Saturn
